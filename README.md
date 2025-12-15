@@ -34,3 +34,10 @@ Abre tu terminal y ejecuta el siguiente comando para descargar el proyecto desde
 ```bash
 git clone [https://github.com/MatiDelozano/Proyecto-Final-React-Games-.git](https://github.com/MatiDelozano/Proyecto-Final-React-Games-.git)
 
+Ingresar los siguientes comandos: 
+
+cd Proyecto-Final-React-Games-
+
+npm install
+
+npm run dev
